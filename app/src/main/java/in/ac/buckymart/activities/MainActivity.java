@@ -1,7 +1,9 @@
-package in.ac.buckymart;
+package in.ac.buckymart.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import in.ac.buckymart.R;
 
 public class MainActivity extends AppCompatActivity {
 
